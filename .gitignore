@@ -1,0 +1,4 @@
+.pase_edifact
+.parse_edifact/
+log/*
+__pycache__/
