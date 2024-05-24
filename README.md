@@ -4,6 +4,7 @@
 
 The **EDI Message Parser** project is designed to process and convert messages in various EDI (Electronic Data Interchange) formats such as EDIFACT, EDISIMPLEX, and XML into structured JSON files.
 
+**Note:** This parser has been tested specifically for COPARN messages. It may require modifications to handle other types of EDI messages.
 
 ## Project Structure
 
