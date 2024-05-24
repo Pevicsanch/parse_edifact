@@ -2,3 +2,4 @@
 .parse_edifact/
 log/*
 __pycache__/
+__pycache__/
